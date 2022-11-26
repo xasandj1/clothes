@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'blogger';
+    src: url('../fonts/blogger-sans.bold.ttf');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'blogger';
+    src: url('../fonts/blogger-sans.medium.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'blogger';
+    src: url('../fonts/blogger-sans.regular.ttf');
+    font-weight: 400;
+}
